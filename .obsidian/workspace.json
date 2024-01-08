@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c196adb704926183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deploying Laravel App to Shared Hosting Using GitHub Actions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "357345a0abb59566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automate GitHub Releases with GitHub Actions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdc06291395e1e52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHPStan & PHPUnit GitHub Actions Workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Internship Journey.md",
+                "file": "PHPStan & PHPUnit GitHub Actions Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Internship Journey.md",
+                "file": "PHPStan & PHPUnit GitHub Actions Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Internship Journey.md"
+                "file": "PHPStan & PHPUnit GitHub Actions Workflow.md"
               }
             }
           }
@@ -146,10 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78fd1e40401c9ac8",
+  "active": "cdc06291395e1e52",
   "lastOpenFiles": [
-    "My Inteasdrnship Journey.md",
+    "PHPStan & PHPUnit GitHub Actions Workflow.md",
+    "Automate GitHub Releases with GitHub Actions.md",
+    "Deploying Laravel App to Shared Hosting Using GitHub Actions.md",
     "My Internship Journey.md",
+    "My Inteasdrnship Journey.md",
     "Welcome.md"
   ]
 }
