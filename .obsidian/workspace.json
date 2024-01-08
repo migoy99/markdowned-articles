@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87979b787910d168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Internship Journey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b534ea83cfb4f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Static Sites and Dynamic Sites - A Contrast.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHPStan & PHPUnit GitHub Actions Workflow.md",
+                "file": "Static Sites and Dynamic Sites - A Contrast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHPStan & PHPUnit GitHub Actions Workflow.md",
+                "file": "Static Sites and Dynamic Sites - A Contrast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHPStan & PHPUnit GitHub Actions Workflow.md"
+                "file": "Static Sites and Dynamic Sites - A Contrast.md"
               }
             }
           }
@@ -183,12 +207,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdc06291395e1e52",
+  "active": "9b534ea83cfb4f7f",
   "lastOpenFiles": [
     "PHPStan & PHPUnit GitHub Actions Workflow.md",
-    "Automate GitHub Releases with GitHub Actions.md",
-    "Deploying Laravel App to Shared Hosting Using GitHub Actions.md",
     "My Internship Journey.md",
+    "Deploying Laravel App to Shared Hosting Using GitHub Actions.md",
+    "Automate GitHub Releases with GitHub Actions.md",
+    "Static Sites and Dynamic Sites - A Contrast.md",
+    "test-wsl.md",
     "My Inteasdrnship Journey.md",
     "Welcome.md"
   ]
